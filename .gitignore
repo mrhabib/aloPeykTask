@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/.env
+/.env.*.php
+/.phpunit.result.cache
+/homestead.yaml
+/homestead.json
+/.vagrant
+.*.swp
+.DS_Store
+Docker/data
